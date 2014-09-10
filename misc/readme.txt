@@ -1,4 +1,4 @@
-Welcome to JTR's Grooveshark downloader!
+Welcome to Shark downloader!
 
 Follow these instructions to download your favorite songs in no time:
     1) Click on groove.
@@ -11,5 +11,5 @@ If you want to change the destination directory, click "Choose Destination".
 
 Enjoy :)
 
-Downloaded from https://github.com/gsteph/groove-dl
-By George Stephanos <gaf.stephanos@gmail.com>
+Downloaded from https://github.com/ehime/Shark
+By Jd Daniel <dodomeki@gmail.com>

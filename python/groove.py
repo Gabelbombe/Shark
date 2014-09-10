@@ -36,8 +36,8 @@ h["uuid"] = str.upper(str(uuid.uuid4()))
 
 #The string that is shown when the program loads
 entrystring = \
-"""A Grooveshark song downloader in python
-by George Stephanos <gaf.stephanos@gmail.com>
+"""A Shark song downloader in python
+by Jd Daniel <dodomeki@gmail.com>
 """
 
 #Generate a token from the method and the secret string (which changes once in a while)
